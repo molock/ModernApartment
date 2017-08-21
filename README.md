@@ -2,7 +2,8 @@
 
 This project is course 2 project of [Udacity](https://www.udacity.com "Udacity - Be in demand")'s [VR Developer Nanodegree](https://www.udacity.com/course/vr-developer-nanodegree--nd017).
 
-**Author** : Wayne Lee 
+**Author** : Wayne Lee
+
 **Time for the Project** : about 10 hours
 
 ## Comment
